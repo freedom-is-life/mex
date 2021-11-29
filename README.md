@@ -10,7 +10,7 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 
 合约交易所、秒合约系统软件开发，ERC20钱包、TRC20钱包、全部源码开放对接
 
-联系方式： Telegram:+601163867209
+联系方式： Telegram:+
 
 <img src="https://github.com/24mex-service/mex/blob/master/demo/images/trade.png" width="365" height="619"/>
 
